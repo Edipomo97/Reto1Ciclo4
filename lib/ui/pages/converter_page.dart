@@ -32,7 +32,7 @@ class _ConverterPageState extends State<ConverterPage> {
     // El siguiente widget en el arbol es el Scaffold
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Currency converter'),
+          title: const Text('Conversor de monedas'),
         ),
         body: Column(children: [
           Row(

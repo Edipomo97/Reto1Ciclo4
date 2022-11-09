@@ -9,9 +9,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Currency converter',
+        title: 'Conversor de Monedas',
         theme: ThemeData(
-          primarySwatch: Colors.grey,
+          primarySwatch: Colors.red,
         ),
 
         // TODO
